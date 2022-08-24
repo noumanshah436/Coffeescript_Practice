@@ -1,0 +1,18 @@
+1) rails new CoffeeScriptPractice
+
+2) rails g controller home index
+
+
+3) rails generate scaffold orders credit_card_number:string credit_card_expires_on:date
+   rails db:migrate
+
+5)  
+
+Put this in your app/assets/javascripts/application.js
+
+//= require jquery
+//= require jquery_ujs
+and install this gem file:
+
+gem 'jquery-rails'
+bundle install
