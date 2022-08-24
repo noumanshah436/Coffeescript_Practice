@@ -1,5 +1,6 @@
-# alert("hello")
 console.log("working js coffee");
+# alert("hello")
+
 CreditCard =
   cleanNumber: (number) -> number.replace /[- ]/g, ""
 

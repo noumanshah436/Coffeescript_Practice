@@ -17,7 +17,7 @@
 //= require_tree .
 
 
-
+// // simple javascript
 // var CreditCard = {
 //   cleanNumber: function(number) {
 //     return number.replace(/[- ]/g, "");
